@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @StephaneWklr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in many things but does not have time to everything :)
+- 🌱 I’m currently learning SQL, php, python, C, etc.
+- 💞️ I’m looking to collaborate on cool project that make the world better
+- 📫 How to reach me winkler.stephane@gmail.com
 
-<!---
-StephaneWklr/StephaneWklr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I will post things here when i have some time/something interresting
